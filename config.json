@@ -1,0 +1,17 @@
+{
+    "TOKEN": "MTMyOTQxNjk5ODMyMDQ3MjEwNQ.GYt18Z.v9o3IdkfTekPjoxDxRhA2XPZbsGEaPtlZiZa4Y",
+    "COMMAND": "!rep",
+    "DATABASE_PASS":"your_passwod",
+    "BOTS": {
+        "BOT":"1329416998320472105",
+        "ME":"889571052009689118",
+        "MAIN":"1022729821379362816",
+        "MAIN2":"878254960213647390"
+    },
+    "CHANNELS": {
+        "1": "1287053777865801798", 
+        "2": "1308750892794773504",
+        "ME": "908493426411069495"
+                
+    }
+}   

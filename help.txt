@@ -1,0 +1,19 @@
+Format Of The Buy Log:
+{
+```Product id : **"product_id"**
+Product owner : steam:"steam_hex"
+Item Name : "item_name"
+Item Count : "item_count"
+Remaining items : "remaining_items"
+Black money : "black_money"
+Price : **"price"**```
+
+1731951946
+}
+
+Commands:
+```
+!rep allmoney --> Returns All Of The Hexes (Hex, Money)
+!rep money "hex" --> Returns The Money Of The Hex
+!rep remoney "hex" --> Resets The Money Of The Hex
+```
